@@ -9,4 +9,5 @@ void mngcd(char *tkns_input[], char **env);
 int _strlen(char *s);
 char *getvrenv(const char *name, char **environ);
 void mnginput(char *tkns[], char **env);
+int _strlen(char *s);
 #endif
